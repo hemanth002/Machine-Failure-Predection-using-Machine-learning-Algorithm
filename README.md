@@ -1,5 +1,5 @@
 # Machine Failure Prediction using Machine Learning Algorithms
-
+https://colab.research.google.com/drive/1OolA1DGwWQ1757Kqbf31a4k_e20CMjcy?usp=sharing
 ## 📌 Project Overview
 This project aims to predict **machine failures** using various machine learning algorithms. The dataset contains sensor readings and operational data of machines, which helps in identifying patterns leading to failures. By leveraging classification techniques, we can proactively detect potential breakdowns and reduce maintenance costs.
 
